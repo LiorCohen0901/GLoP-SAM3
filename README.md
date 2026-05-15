@@ -4,7 +4,7 @@
 
 **A training-free SAM3-based framework for open-vocabulary semantic segmentation in remote sensing images**
 
-[Paper](#) · [Code](#) · [Dataset](#) · [Results](#)
+[Paper](#) · [Code Coming Soon](#) · [Model](#) · [Dataset Preparation](#) · [Reproduction Guide](#)
 
 </div>
 
